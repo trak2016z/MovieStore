@@ -1,0 +1,10 @@
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\bin\Debug\netcoreapp1.0\MyMovieStore.deps.json
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\bin\Debug\netcoreapp1.0\MyMovieStore.runtimeconfig.json
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\bin\Debug\netcoreapp1.0\MyMovieStore.runtimeconfig.dev.json
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\bin\Debug\netcoreapp1.0\MyMovieStore.dll
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\bin\Debug\netcoreapp1.0\MyMovieStore.pdb
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\obj\Debug\netcoreapp1.0\MyMovieStore.csprojResolveAssemblyReference.cache
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\obj\Debug\netcoreapp1.0\MyMovieStore.AssemblyInfo.cs
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\obj\Debug\netcoreapp1.0\MyMovieStore.dll
+c:\users\trak\documents\visual studio 2017\Projects\MyMovieStore\MyMovieStore\obj\Debug\netcoreapp1.0\MyMovieStore.pdb
